@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/jayce-it/AppDownload/master/APP/BJ.ipa</string>
+					<string>https://raw.githubusercontent.com/jayce-it/AppDownload/master/APP/FH.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.empire.web.bojin</string>
+				<string>com.empire.web.xinfh</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>博金娱乐</string>
+				<string>新凤凰彩票</string>
 			</dict>
 		</dict>
 	</array>
