@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/jayce-it/AppDownload/master/XinBo.ipa</string>
+					<string>https://github.com/jayce-it/AppDownload/raw/master/XinBo.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
