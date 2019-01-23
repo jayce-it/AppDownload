@@ -1,0 +1,18 @@
+adb connect 127.0.0.1:7555
+
+
+全屏播放
+全屏暂停
+WEBVIEW自适应
+
+
+会员界面/会员和普通用户的区别
+
+
+"if_like": false
+next/video/
+
+
+
+
+
