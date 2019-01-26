@@ -1,1 +1,1 @@
-JY.apk filter=lfs diff=lfs merge=lfs -text
+JY filter=lfs diff=lfs merge=lfs -text
