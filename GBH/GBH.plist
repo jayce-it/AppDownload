@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.empire.web.aggbh</string>
+				<string>com.empire.h5.aggbh</string>
 				<key>bundle-version</key>
 				<string>1.0.2</string>
 				<key>kind</key>
