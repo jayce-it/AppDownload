@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zbo.appbrowser</string>
+				<string>com.empire.ggwin.zb</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
