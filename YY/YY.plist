@@ -11,35 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/jayce-it/AppDownload/master/YY/YY.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://raw.githubusercontent.com/jayce-it/AppDownload/master/Logo/YY.png</string>
+					<string>https://download.ejs68.com/YY/YY.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/jayce-it/AppDownload/master/Logo/YY.png</string>
+					<string>https://</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.empire2019.h5.YYCP</string>
+				<string>com.empire.ggwin.pjo1</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.45</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>YYCP</string>
+				<string>YY彩票</string>
 			</dict>
 		</dict>
 	</array>
