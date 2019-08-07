@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://download.ejs68.com/PJI/PJI.ipa</string>
+					<string>https://raw.githubusercontent.com/jayce-it/AppDownload/master/PJI/PJI.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
